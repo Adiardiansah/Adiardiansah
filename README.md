@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello world. I'm Adi Ardiansah 👋
 
 <!--
-**Adiardiansah/Adiardiansah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Adiardiansah/Adiardiansah** is a ✨ _special_ ✨ repository because its`README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on No Jobs Means im still jobless still🤣
+- 🌱 I’m currently learning Something that makes me grow up
+- 💬 Ask me about Everything
+- 📫 How to reach me: Follow and get in touch me on Instagram **@Kak.ezy**
+
+
