@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 ) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 ) ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white
 )
+
+###### Thank u so much for ur attention of me 
